@@ -10,6 +10,7 @@ Certifique-se de ter os seguintes softwares instalados:
 - Java
 - NetBeans
 - DBeaver
+- WampServer
 
 ## Passos para Rodar o Projeto
 ### 1. Abra o NetBeans:
